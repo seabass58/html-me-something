@@ -1,0 +1,75 @@
+h2 {
+    margin: 0px 0px 0px 500px;
+    font-size: 25px;
+    padding-right: 0px;
+    color: orange;
+}
+h3 {
+    margin: 25px 600px;
+    font-size: 25px;
+    color: orange;
+}
+p {
+    padding: 25px;
+    margin: 20px 50px;
+}
+
+figure8{
+    margin: 0px 0px 0px 120px;
+}
+
+figure1{
+    margin: 0px 400px;
+}
+
+figure2{
+    margin: 0px 300px;
+}
+
+figure3{
+    margin: 0px 380px;
+}
+
+figure4{
+    margin: 0px 375px;
+}
+
+figure5{
+    margin: 0px 0px 0px 60px;
+}
+
+figure6{
+    margin: 0px 120px;
+}
+
+figure7{
+    margin: 0px 150px;
+}
+
+.Favorite_character {
+    background-color: rgb(0, 0, 170);
+}
+
+.Apex_Legend{
+    color: green;
+}
+
+#GAME_OF_THE_YEAR{
+    color: rgb(142, 14, 142);
+}
+body {
+    margin: 8px;
+    background-color: lightblue;
+}
+
+#mainHeading{
+    color: red;
+}
+
+#testP{
+    color: green;
+}
+
+.funParagraph{
+    color: green;
+}
